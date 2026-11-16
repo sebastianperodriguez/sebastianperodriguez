@@ -28,10 +28,11 @@ Actualmente enfocado en aplicaciones con IA (Google Gemini API y Model Context P
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [Portfolio](https://github.com/sebastianperodriguez/portfolio) → [demo](https://www.sebasperez.dev) | Portafolio personal con animaciones y CV | React · Vite · Tailwind · Framer Motion |
-| [Chat IA "Pedro Morales"](https://github.com/sebastianperodriguez/Chat-Pedro-Morales-Pino-PI-M3) | Chatbot con IA integrando Google Gemini API | JavaScript · Gemini API |
+| [Arcoins Wallet](https://github.com/Arco-Tech-Consulting/Arcoins_Wallet) → [demo](https://arcoinswallet.vercel.app/) | Billetera digital multi-moneda (COP/USD/EUR) con API REST, autenticación JWT y asistente de IA | React 19 · TypeScript · Express 5 · PostgreSQL |
 | [MCP Server GitHub](https://github.com/sebastianperodriguez/PI-M5) | Servidor MCP para integrar herramientas de GitHub vía Model Context Protocol | TypeScript · MCP |
-| [Gestor de tareas](https://github.com/sebastianperodriguez/Gestor-de-tareas-PI-M4) | App de gestión de tareas en la nube | TypeScript · Vercel/Railway |
+| [Chat IA "Pedro Morales"](https://github.com/sebastianperodriguez/Chat-Pedro-Morales-Pino-PI-M3) | Chatbot conversacional con Google Gemini API | JavaScript · Gemini API · Vercel Functions |
+| [MateCode — Gestor de tareas](https://github.com/sebastianperodriguez/Gestor-de-tareas-PI-M4) | Gestión de tareas con autenticación federada y resúmenes por correo | React 19 · TypeScript · Firebase · AWS SES |
+| [Portfolio](https://github.com/sebastianperodriguez/portfolio) → [demo](https://www.sebasperez.dev) | Portafolio personal con animaciones y CV descargable | React · Vite · Tailwind · Framer Motion |
 | [API REST](https://github.com/sebastianperodriguez/pi-m2--API) | API con autenticación y persistencia en PostgreSQL | Node.js · Express · PostgreSQL |
 
 ## 📊
