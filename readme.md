@@ -35,12 +35,6 @@ Actualmente enfocado en aplicaciones con IA (Google Gemini API y Model Context P
 | [Portfolio](https://github.com/sebastianperodriguez/portfolio) → [demo](https://www.sebasperez.dev) | Portafolio personal con animaciones y CV descargable | React · Vite · Tailwind · Framer Motion |
 | [API REST](https://github.com/sebastianperodriguez/pi-m2--API) | API con autenticación y persistencia en PostgreSQL | Node.js · Express · PostgreSQL |
 
-## 📊
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastianperodriguez&show_icons=true&locale=es&hide_title=true" alt="stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianperodriguez&layout=compact&locale=es&hide_title=true" alt="langs" height="150" />
-</p>
 
 ---
 
